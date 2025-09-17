@@ -18,10 +18,9 @@ With Make:
 3. Navigate to folder -> cd ezstrings-main
 4. If make installed -> make
 5. ./ezstrings or ezstrings.exe
-
-Without Make:
-4. gcc -o ezstrings main.c parser.c search.c
-5. ./ezstrings or ezstrings.exe
+6. Without Make Below:
+7. gcc -o ezstrings main.c parser.c search.c
+8. ./ezstrings or ezstrings.exe
 *can use clang or MSVC if no gcc
 
 ---
